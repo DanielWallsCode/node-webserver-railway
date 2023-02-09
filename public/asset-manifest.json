@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loftwals/MOrty.git/static/css/main.39843279.css",
+    "main.js": "/loftwals/MOrty.git/static/js/main.96edc4c6.js",
+    "static/js/787.1b472a9d.chunk.js": "/loftwals/MOrty.git/static/js/787.1b472a9d.chunk.js",
+    "index.html": "/loftwals/MOrty.git/index.html",
+    "main.39843279.css.map": "/loftwals/MOrty.git/static/css/main.39843279.css.map",
+    "main.96edc4c6.js.map": "/loftwals/MOrty.git/static/js/main.96edc4c6.js.map",
+    "787.1b472a9d.chunk.js.map": "/loftwals/MOrty.git/static/js/787.1b472a9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39843279.css",
+    "static/js/main.96edc4c6.js"
+  ]
+}
